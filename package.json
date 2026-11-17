@@ -11,6 +11,14 @@
     "config",
     "zero-dependency"
   ],
+  "homepage": "https://github.com/PakoAmadi/load-env#readme",
+  "bugs": {
+    "url": "https://github.com/PakoAmadi/load-env/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PakoAmadi/load-env.git"
+  },
   "license": "MIT",
   "author": "Pako Amadi",
   "type": "commonjs",
