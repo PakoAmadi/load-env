@@ -1,0 +1,30 @@
+{
+  "name": "@pakoamadi/load-env",
+  "version": "1.0.0",
+  "description": "Tiny zero-dependency loader for .env files into process.env",
+  "keywords": [
+    "env",
+    "dotenv",
+    ".env",
+    "environment",
+    "variables",
+    "config",
+    "zero-dependency"
+  ],
+  "license": "MIT",
+  "author": "Pako Amadi",
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
